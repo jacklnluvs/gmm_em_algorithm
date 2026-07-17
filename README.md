@@ -104,7 +104,7 @@ After completing this project, I learned to:
 
 ## Author
 
-**Student Name:** Prathibaa P
+**Student Name:** Jacklyne.A
 
 **Course:** BCA
 
