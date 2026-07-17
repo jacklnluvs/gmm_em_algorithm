@@ -72,12 +72,8 @@ GMM-EM-Algorithm-Week1/
   <img width="672" height="669" alt="Synthetic Dataset" src="https://github.com/user-attachments/assets/c33bc040-31e1-415b-bf5b-ba8d0205d20b" />
 
 
-### 2. Final Cluster Assignment
-- Scatter plot showing the clusters identified by the EM Algorithm.
-- <img width="671" height="667" alt="Final Clusters" src="https://github.com/user-attachments/assets/372288d9-2cc5-4453-9452-a5d91d00a736" />
 
-
-### 3. Log-Likelihood Plot
+### 2. Log-Likelihood Plot
 - Graph showing the Log-Likelihood value for each iteration until convergence.
 - <img width="673" height="667" alt="EM Convergence" src="https://github.com/user-attachments/assets/2776fc40-1dfd-4620-9d24-d82caa90a651" />
 
